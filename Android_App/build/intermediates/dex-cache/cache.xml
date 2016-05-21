@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Swapnil\AndroidStudioProjects\Amazzenger\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="C:\Users\Swapnil\AndroidStudioProjects\Amazzenger\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.3.0_213e5a93ab3775b4d41dd466c5f86ca2ff8e27c9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Swapnil\AndroidStudioProjects\Amazzenger\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="cf451a6f451daea950443f39f7592731ee2f39ef">
+        <dex dex="C:\Users\Swapnil\AndroidStudioProjects\Amazzenger\app\build\intermediates\pre-dexed\debug\instant-run_fe5a2f5db39f0d96338a5f41ba11ecc21e2f77c9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Swapnil\AndroidStudioProjects\Amazzenger\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="525b9bc5bc8c78fde1210cf96ecaf38c93a3f30f">
+        <dex dex="C:\Users\Swapnil\AndroidStudioProjects\Amazzenger\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_b8433783948b8eeab7781b33840a90663abbbd00.jar" />
+    </item>
+    <item
+        jar="C:\Users\Swapnil\AndroidStudioProjects\Amazzenger\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\Swapnil\AndroidStudioProjects\Amazzenger\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_f3881dfb8f3f6ff210f5da328c17c3797f72f27a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Swapnil\AndroidStudioProjects\Amazzenger\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\Swapnil\AndroidStudioProjects\Amazzenger\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_c3f5b1489aab3032d486bd8b65e20390d9e46e6d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Swapnil\AndroidStudioProjects\Amazzenger\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\Swapnil\AndroidStudioProjects\Amazzenger\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_dcd011562f13d196dfb187d70a8b88ae03504d34.jar" />
+    </item>
+    <item
+        jar="C:\Users\Swapnil\AndroidStudioProjects\Amazzenger\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\Swapnil\AndroidStudioProjects\Amazzenger\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_3d7e1ac02c94d9d9ce2a8a2dd352e4e238e7be65.jar" />
+    </item>
+    <item
+        jar="C:\Users\Swapnil\AndroidStudioProjects\Amazzenger\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="C:\Users\Swapnil\AndroidStudioProjects\Amazzenger\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.3.0_cab57e3be584c1110865a656375e43e3efb26cd4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Swapnil\AndroidStudioProjects\Amazzenger\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\Swapnil\AndroidStudioProjects\Amazzenger\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_3bc04e0dbb5a9faffe6fd05db60d6bbc10dcf731.jar" />
+    </item>
+    <item
+        jar="E:\sdk\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\Swapnil\AndroidStudioProjects\Amazzenger\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_84f2629070f895e18584d8f41a43441ff4c2380f.jar" />
+    </item>
+
+</items>

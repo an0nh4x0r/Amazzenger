@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Amazzenger</string>
+    <string name="enter_the_message">Enter the message</string>
+    <string name="enter_the_message_here">Enter the message here!</string>
+    <string name="send">Send</string>
+    <string name="pick_contact">Pick Contact</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+</resources>
