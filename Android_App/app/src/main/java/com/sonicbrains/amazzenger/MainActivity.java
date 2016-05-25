@@ -127,7 +127,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         public void postData(String valueIWantToSend, String contact_number) {
             // Create a new HttpClient and Post Header
             HttpClient httpclient = new DefaultHttpClient();
-            HttpPost httppost = new HttpPost("http://sonicbrains.com/sendnotifications");
+            HttpPost httppost = new HttpPost("http://sonicbrains.com/sendnotifications.php");
 
             try {
                 // Add your data
